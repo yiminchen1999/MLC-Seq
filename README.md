@@ -22,9 +22,9 @@ For example,
 ```Bash
 source ~/Downloads/vir_env/bin/activate
 ```
-5. Download this project(MLC-Seq), Usually you will download a zip file, just unzip it. Suppose you extract the project into your "Downloads" folder(Linux/MacOS), you will get your project path "~/Downloads/MLC-Seq" or "C:\MLC-Seq", Go to the root directory of this project
+5. Download this project(MLC-Seq), Usually you will download a zip file, just unzip it. Suppose you extract the project into your "Downloads" folder, you will get your project path "~/Downloads/MLC-Seq-main". Change to the directory of this project
 ```Bash
-cd ~/Downloads/MLC-Seq
+cd ~/Downloads/MLC-Seq-main
 ```
 6. use the following command to install all the required libraries
 ```Bash
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```Bash
 python3 -m venv <your_virtual_workspace_path>
 ```
-For example, if the virtual environment path is "C:\vir_env"(Windows), simply run
+For example, if the virtual environment path is "C:\vir_env", simply run
 ```Bash
 python3 -m venv C:\vir_env
 ```
@@ -50,9 +50,9 @@ For example,
 ```Bash
 C:\vir_env\Scripts\activate.bat
 ```
-5. Download this project(MLC-Seq), Usually you will download a zip file, just unzip it. Suppose you extract the project into "C:\" folder, you will get your project path "C:\MLC-Seq", Go to the root directory of this project
+5. Download this project(MLC-Seq), Usually you will download a zip file, just unzip it. Suppose you extract the project into "C:\" folder, you will get your project path "C:\MLC-Seq-main". Change to the directory of this project
 ```Bash
-cd C:\MLC-Seq
+cd C:\MLC-Seq-main
 ```
 6. use the following command to install all the required libraries
 ```Bash
