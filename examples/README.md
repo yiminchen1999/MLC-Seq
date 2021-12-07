@@ -8,7 +8,7 @@ Examples illustrate the usage of MLC-Seq algorithms (implemented as modules, you
 The notebook <em>trna_phe_analysis_lite.ipynb</em> is a short version you can run and get the result in 1 minute. If you don't have much time, but still want to experience MLC-Seq, this notebook is right for you.
 
 #### Example 2. Exploring Yeast tRNA-Phe (Standard Version)
-The notebook <em>trna_phe_analysis.ipynb</em> is a standard version illustrate how to explore a typical sample we described in our paper. Please note that when we do data analysis on any unknown samples, including the samples we dealt with in our paper, the process is not fully automated. Sometimes, manual work may still need to be involved in several steps of the MLC-Seq workflow. For example, manually ladder separation, inspecting the results of MassSum/GapFill, and identifying the results Ladder Complementation, etc.
+The notebook <em>trna_phe_analysis.ipynb</em> is a standard version illustrate how to explore a typical sample we described in our paper. Please note that when we do data analysis on any unknown samples, including the samples we dealt with in our paper, the process is not fully automated. Sometimes, manual work may still need to be involved in several steps of the MLC-Seq workflow. For example, manually ladder separation, inspecting the results of MassSum/GapFill, and identifying the results of Ladder Complementation, etc.
 
 ### Run the Example
 1. Choose a notebook(.ipynb) and click on it. The system will open it on a new web page.
