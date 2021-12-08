@@ -68,9 +68,9 @@ jupyter notebook
 - The folder <em>**modules**</em> includes the main tools and algorithms used in the project. 
 - The folder <em>**samples**</em> has three sub-folders. They are the deconvoluted results (Data sources of our algorithms.) for tRNA-Phe, Glu, and Gln. 
 - The folder <em>**examples**</em> contains several notebooks (.ipnyb) that illustrate the usage of **MLC-Seq** algorithms in different levels. 
-	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a short version for users who don't have much time to explore the algorithm, you can run the notebook and get a rough result in 1 minute.
+	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a simplified version, you can run the notebook and get a limited result in 1 minute.
 	- The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example. 
 
 ### Videos Demo
-[This video](https://youtu.be/0hQkDnjLPZM) is about how to install this project.
-[This video](https://youtu.be/eyJBcZLqakg) shows how to run one of our examples.
+- [This video](https://youtu.be/0hQkDnjLPZM) is about how to install this project.
+- [This video](https://youtu.be/eyJBcZLqakg) shows how to run one of our examples.
