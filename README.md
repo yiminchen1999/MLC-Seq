@@ -27,7 +27,12 @@ In our case, enter the command
 ```Bash
 source ~/Downloads/vir_env/bin/activate
 ```
-4. Go to the root directory of MLC-Seq project and install all the required libraries. In our case enter
+4. Go to the root directory of MLC-Seq project and install all the required libraries. Enter the command
+```Bash
+cd <root_directory_path>
+pip install -r requirements.txt
+```
+In our case, enter
 ```Bash
 cd ~/Downloads/MLC-Seq-main
 pip install -r requirements.txt
@@ -51,7 +56,12 @@ In our case, enter the command
 ```Bash
 C:\vir_env\Scripts\activate.bat
 ```
-4. Go to the root directory of the project MLC-Seq and install all the required libraries. In our case enter
+4. Go to the root directory of the project MLC-Seq and install all the required libraries. Enter the command
+```Bash
+cd <root_directory_path>
+pip install -r requirements.txt
+```
+In our case, enter
 ```Bash
 cd C:\MLC-Seq-main
 pip install -r requirements.txt
