@@ -67,10 +67,12 @@ The main page of MLC-Seq is presented in your default browser. We will be proces
 - The folder <em>**modules**</em> includes the main tools and algorithms used in the project. 
 - The folder <em>**samples**</em> has three sub-folders. They are the deconvoluted results (data sources of our algorithms.) for tRNA-Phe, Glu, and Gln. 
 - The folder <em>**examples**</em> contains several notebooks (.ipnyb) that illustrate the usage of **MLC-Seq** algorithms in different levels. 
-	- The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example. 
-	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a simplified version. After further selelction (described in method section), the result is then used for ladder complementation.
+
+	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a simplified version of data processing, using one of the isoforms of <em>tRNA-Phe</em> as an example. After further selelction (described in method section), the result is then used for ladder complementation.The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example. 
+	- The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example.
 
 ### Videos Demo
 - [This video](https://youtu.be/0hQkDnjLPZM) shows how to install this project.
-- [This video](https://youtu.be/eyJBcZLqakg) shows how to run the notebook <em>**trna_phe_analysis.ipynb**</em>.
 - [This video](https://youtu.be/pliz7t1gWKg) demonstrates how to run the notebook <em>**trna_phe_analysis_lite.ipynb**</em>.
+- [This video](https://youtu.be/eyJBcZLqakg) shows how to run the notebook <em>**trna_phe_analysis.ipynb**</em>, change parameters for the purpose of obtaining more results.
+
