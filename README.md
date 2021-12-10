@@ -71,7 +71,7 @@ The main page of MLC-Seq is presented in your default browser. We will be proces
 	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a simplified version of data processing, using one of the isoforms of <em>tRNA-Phe</em> as an example. After further selelction (described in method section), the result is then used for ladder complementation.The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example. 
 	- The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example.
 
-### Videos Demo
+### Demo Videos
 - [This video](https://youtu.be/0hQkDnjLPZM) shows how to install this project.
 - [This video](https://youtu.be/pliz7t1gWKg) demonstrates how to run the notebook <em>**trna_phe_analysis_lite.ipynb**</em>.
 - [This video](https://youtu.be/eyJBcZLqakg) shows how to run the notebook <em>**trna_phe_analysis.ipynb**</em>, change parameters for the purpose of obtaining more results.
