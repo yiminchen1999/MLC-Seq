@@ -7,7 +7,9 @@ The implementation of **MLC-Seq** algorithm to direct sequence RNA.
 1. You must have Python3, Python version 3.5+ is required. Go to https://www.python.org/downloads/ to download python and follow the instruction for installation.
 2. Clone this repository. Click the green button "Code" and click the "Download ZIP" button. Unzip the file. In MacOS system, the path of the project is ~/Downloads/MLC-Seq-main. In Windows system, the path of the project is C:\MLC-Seq-main.
 
-### Prepare the environment for Linux/MacOS
+### Prepare the Environment
+Environment preparation for Linux/MacOS and Windows will be described separately.
+#### Prepare the environment for Linux/MacOS
 1. Open the Terminal.
 2. Create an virtual environment by entering the following command
 ```Bash
@@ -31,7 +33,7 @@ cd ~/Downloads/MLC-Seq-main
 pip install -r requirements.txt
 ```
 
-### Prepare the environment for Windows
+#### Prepare the environment for Windows
 1. Open the Command Prompt(cmd.exe).
 2. Create an virtual environment by entering the following command
 ```Bash
@@ -54,7 +56,7 @@ C:\vir_env\Scripts\activate.bat
 cd C:\MLC-Seq-main
 pip install -r requirements.txt
 ```
-### Launch the project
+### Launch the Project
 Run the following command to launch the project, then project **MLC-Seq** will be located in your default browser.
 ```Bash
 jupyter notebook
