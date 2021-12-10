@@ -71,9 +71,9 @@ Run the following command to launch the project, then project **MLC-Seq** will b
 ```Bash
 jupyter notebook
 ```
-Now we are in jupyter. Navigate to MLC-Seq-main folder and open it. In our case, it it in "Downlowds" folder for Linux/MacOS system. It is in C drive for Windows system.
+Now we are in jupyter webpage. From this page, navigate to MLC-Seq-main folder and open it. In our case, it it in "Downlowds" folder for Linux/MacOS system. It is in C drive for Windows system.
 
-The main page of MLC-Seq is presented in your default browser. We will be processing the data in this window.
+The main page of MLC-Seq is now presented in your default browser. We will be processing the data in this window.
 
 ### Project Structure Description
 - The folder <em>**modules**</em> includes the main tools and algorithms used in the project. 
