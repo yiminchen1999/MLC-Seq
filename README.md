@@ -25,7 +25,7 @@ In our case, enter the command
 ```Bash
 source ~/Downloads/vir_env/bin/activate
 ```
-4. Go to the root directory of this project MLC-Seq-mian and install all the required libraries. In our case enter
+4. Go to the root directory of MLC-Seq project and install all the required libraries. In our case enter
 ```Bash
 cd ~/Downloads/MLC-Seq-main
 pip install -r requirements.txt
@@ -49,7 +49,7 @@ In our case, enter the command
 ```Bash
 C:\vir_env\Scripts\activate.bat
 ```
-4. Go to the root directory of this project and install all the required libraries. In our case enter
+4. Go to the root directory of the project MLC-Seq and install all the required libraries. In our case enter
 ```Bash
 cd C:\MLC-Seq-main
 pip install -r requirements.txt
@@ -68,7 +68,7 @@ The main page of MLC-Seq is presented in your default browser. We will be proces
 - The folder <em>**samples**</em> has three sub-folders. They are the deconvoluted results (data sources of our algorithms.) for tRNA-Phe, Glu, and Gln. 
 - The folder <em>**examples**</em> contains several notebooks (.ipnyb) that illustrate the usage of **MLC-Seq** algorithms in different levels. 
 	- The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example. 
-	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a simplified version, you can run the notebook and get a limited result in 1 minute.
+	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a simplified version. After further selelction (described in method section), the result is then used for ladder complementation.
 
 ### Videos Demo
 - [This video](https://youtu.be/0hQkDnjLPZM) shows how to install this project.
