@@ -11,8 +11,8 @@ The implementation of **MLC-Seq** algorithm to direct sequence RNA.
 ### Software requirements
 #### OS requirements
 This project is supported for macOS/Linux and Windows. The project has been tested on the following systems:
-macOS: Big Sur (11.1)
-Windows: Windows 10
+- macOS: Big Sur (11.1)
+- Windows: Windows 10
 
 ### Python dependencies
 1. Python version 3.5+ is required. Go to https://www.python.org/downloads/ to download python and follow the instruction for installation.
