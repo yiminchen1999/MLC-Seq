@@ -14,9 +14,9 @@ This project is supported for macOS/Linux and Windows. The project has been test
 - macOS: Big Sur (11.1)
 - Windows: Windows 10
 
-### Python dependencies
+#### Python dependencies
 1. Python version 3.5+ is required. Go to https://www.python.org/downloads/ to download python and follow the instruction for installation.
-2. The rest dependencies are listed inside requirements.txt, please refer to the Prepare the Environment section on how to install them. They should install in about 2 minutes, depending on your network speed.
+2. The rest dependencies are listed inside requirements.txt, please refer to the [Prepare the Environment](#prepare-the-environment) section on how to install them. They should install in about 2 minutes, depending on your network speed.
 
 ## Download
 Clone this repository. Click the green button "Code" and click the "Download ZIP" button. Now a zip file named "MLC-Seq-main.zip" is downloaded. Unzip this file. In macOS/Linux system, usually the path of the project is ~/Downloads/MLC-Seq-main. In Windows system, suppose the path of the project is C:\MLC-Seq-main.
@@ -86,14 +86,15 @@ Run the following command to launch the project, then project **MLC-Seq** will b
 jupyter notebook
 ```
 
-The main page of MLC-Seq is now presented in your default browser. We will be processing the data in this window.
+The main page of **MLC-Seq** is now presented in your default browser. We will be processing the data in this window.
 
 ## Project Structure Description
+- The folder <em>**pseudocode**</em> includes the pseudo-codes of **MLC-Seq** algorithms. 
 - The folder <em>**modules**</em> includes the main tools and algorithms used in the project. 
 - The folder <em>**samples**</em> has three sub-folders. They are the deconvoluted results (data sources of our algorithms.) for tRNA-Phe, Glu, and Gln. 
 - The folder <em>**examples**</em> contains several notebooks (.ipnyb) that illustrate the usage of **MLC-Seq** algorithms in different levels. 
 
-	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a simplified version of data processing, using one of the isoforms of <em>tRNA-Phe</em> as an example. After further selelction (described in method section), the result is then used for ladder complementation.The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example. 
+	- The notebook <em>**trna_phe_analysis_lite.ipynb**</em> is a simplified version of data processing, using one of the isoforms of <em>tRNA-Phe</em> as an example. After further selelction (described in methods section), the result is then used for ladder complementation.The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example. 
 	- The notebook <em>**trna_phe_analysis.ipynb**</em> presents the data processing using <em>tRNA-Phe</em> as an example.
 
 ## Demo Videos
